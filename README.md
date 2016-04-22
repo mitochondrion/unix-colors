@@ -1,5 +1,5 @@
 # unix-colors
-Python functions for coloring command line output.  Have only tested on Bash.
+Python functions for coloring/formatting command line output.  Have only tested on Bash.
 
 ## Example:
 ```
